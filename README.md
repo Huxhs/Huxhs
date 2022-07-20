@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Huxhs
+- 👀 I’m interested in bceoming a Web 3 Blockchain developer.
+- 🌱 I’m currently learning React, Firebase.
+- 📫 How to reach me n3dsales@gmail.com for inquiries.
